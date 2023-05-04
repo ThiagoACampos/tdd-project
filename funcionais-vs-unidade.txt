@@ -1,0 +1,2 @@
+- Testes funcionais normalmente são no estilo caixa preta e teste de unidade podem levar em consideração os detalhes do teste
+- Testes funcionais normalmente são executados por equipes de teste e testes de unidade por desenvolvedores
