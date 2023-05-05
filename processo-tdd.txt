@@ -1,0 +1,1 @@
+- O processo apresentado mostra as principais diferenças entre o processo de TDD simples e o processo de TDD utilizando Testes Funcionais e Testes de Unidade.
